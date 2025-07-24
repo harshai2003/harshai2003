@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/harshai2003/harshai2003/blob/main/banner.jpg?raw=true)
+[![](./src/header_.png)](#)
 
 <h1 align="left">👋 Hello</h1>
 
