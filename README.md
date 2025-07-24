@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=keyword&page=1&position=1&uuid=e936f693-9b90-4a84-a346-3ea73c48a95d&query=Github"  />
-</div>
+
 
 <h1 align="left">👋 Hello</h1>
 
