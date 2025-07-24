@@ -1,4 +1,4 @@
-[![](./src/header_.png)](#)
+[![](./src/banner.jpg)](#)
 
 <h1 align="left">👋 Hello</h1>
 
