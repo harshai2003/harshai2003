@@ -1,4 +1,4 @@
-
+![Welcome Banner](https://github.com/harshai2003/harshai2003/blob/main/banner.jpg?raw=true)
 
 <h1 align="left">👋 Hello</h1>
 
